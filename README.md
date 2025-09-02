@@ -55,7 +55,7 @@ One PNG per pair:
   - 🟢 `01` – discordant at second allele  
   - 🔵 `10` – discordant at first allele  
   - 🟡 `11` – identical at both alleles  
-- :boom::boom::boom: Warning: `<label>` name must exactly match the table of Kinship Labels below :boom::boom::boom:
+- :boom::boom::boom: Warning: `<label>` name must exactly match the table of **Kinship Labels** below :boom::boom::boom:
 ---
 
 ## <a id="ibscnnpy"></a> `ibscnn.py`
