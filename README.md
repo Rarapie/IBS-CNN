@@ -51,10 +51,10 @@ One PNG per pair:
 - Size: 2 × 100 inches (width × height)  
 - DPI: 150  
 - Color encoding:  
-  - 🔴 `00` – discordant at both alleles  
+  - 🟡 `11` – identical at both alleles 
   - 🟢 `01` – discordant at second allele  
-  - 🔵 `10` – discordant at first allele  
-  - 🟡 `11` – identical at both alleles  
+  - 🔵 `10` – discordant at first allele
+  - 🔴 `00` – discordant at both alleles    
 - :boom::boom::boom: Warning: `<label>` name must exactly match the table of **Kinship Labels** below :boom::boom::boom:
 ---
 
