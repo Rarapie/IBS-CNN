@@ -50,7 +50,7 @@ One PNG per pair:
 `<Sample1>_<Sample2>-<label>.png`  
 - Size: 2 × 100 inches (width × height)  
 - DPI: 150  
-- Colors:  
+- Color encoding:  
   - 🔴 `00` – discordant at both alleles  
   - 🟢 `01` – discordant at second allele  
   - 🔵 `10` – discordant at first allele  
