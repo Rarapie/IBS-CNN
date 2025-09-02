@@ -10,10 +10,12 @@ A complete, end-to-end workflow that turns **VCF files** into **kinship predicti
 ## Quick Start
 
 ```bash
-# 1. generate IBS barcode images
+# 1. unzip example 7z files in ./example
+
+# 2. generate IBS barcode images
 python vcf2img.py --vcf(-v) ./example/1kg_un/un.vcf --pair(-p) ./example/1kg_un/un.csv --output(-o) demo_img
 
-# 2. run IBS-CNN
+# 3. run IBS-CNN
 python ibscnn.py --image(-i) ./example/1kg_simulated_pedigree --model(-m) ./model/128x512_LongBarcodeCNN.pth --output(-o) demo_pred
 ```
 
